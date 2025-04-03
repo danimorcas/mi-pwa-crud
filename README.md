@@ -1,7 +1,5 @@
 # 🚀 PWA CRUD - Gestor de Tareas Offline
 
-![Banner App](https://via.placeholder.com/1200x400?text=PWA+CRUD+Banner) *(Reemplazar con imagen real)*
-
 ## 🔍 Descripción 
 Aplicación web progresiva (PWA) para gestión de tareas con capacidad **offline**, que permite:
 
