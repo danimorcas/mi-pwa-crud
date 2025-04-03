@@ -17,14 +17,12 @@ Aplicación web progresiva (PWA) para gestión de tareas con capacidad **offline
 
 
 ### Interfaz Principal
-![Interfaz](https://via.placeholder.com/800x450?text=Interfaz+Principal+CRUD)  
 *Descripción*:  
 1. **Barra superior**: Botón de instalación PWA  
 2. **Sección central**: Formulario para nueva tarea  
 3. **Lista inferior**: Tareas almacenadas con opciones de editar/eliminar  
 
 ### Modo Offline
-![Offline](https://via.placeholder.com/800x450?text=Modo+Offline)  
 
 <img width="959" alt="Captura de pantalla 2025-04-03 025728" src="https://github.com/user-attachments/assets/6dca058d-8cae-47bf-87f7-c61341afff4d" />
 
